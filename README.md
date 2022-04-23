@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+## Vue 3 + Vite
 
 This template should help get you started developing with Vue 3 in Vite. 
 
@@ -10,20 +10,20 @@ This template should help get you started developing with Vue 3 in Vite.
 Prerequisites:
 
 
-##Capacitor 
+## CapacitorJS
 
-#Environment Setup:
+### Environment Setup:
 
 https://capacitorjs.com/docs/getting-started/environment-setup
 
-#Step 1
+### #1: Naming and Configuration
 
 ```bash
 npx cap init
 
 ```
-
-#iOS
+### #2: Add platforms
+#### iOS
 
 ```bash
 npx cap add ios
@@ -31,7 +31,7 @@ npx cap add ios
 ```
 
 
-#Android
+#### Android
 
 ```bash
 npx cap add android
