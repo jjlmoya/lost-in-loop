@@ -10,7 +10,6 @@ export const useUserStore = defineStore('user', {
     },
     actions: {
         get () {
-            console.log('get')
             return this.user || {}
         },
         isSetted () {
