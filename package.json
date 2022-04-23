@@ -8,10 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@capacitor/android": "^3.5.0",
+    "@capacitor/core": "^3.5.0",
+    "@capacitor/ios": "^3.5.0",
     "vue": "^3.2.31",
     "vue-router": "^4.0.13"
   },
   "devDependencies": {
+    "@capacitor/cli": "^3.5.0",
     "@vitejs/plugin-vue": "^2.2.4",
     "cssnano": "^5.1.0",
     "eslint-plugin-vue": "^8.5.0",
