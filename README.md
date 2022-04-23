@@ -1,10 +1,13 @@
-## Vue 3 + Vite
+## Vue 3 + Vite + Capacitor + Axios + Pinia
 
 This template should help get you started developing with Vue 3 in Vite. 
 
 - Vue Router
 - Linter
 - Postcss
+- CapacitorJS
+- Axios with useApi Architecture
+- Pinia for storage
 
 
 Prerequisites:
