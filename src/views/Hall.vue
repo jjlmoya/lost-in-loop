@@ -1,14 +1,14 @@
 <template>
-    <Home />
+    <Hall />
 </template>
 
 <script>
 
-    import Home from '@/components/Pages/Home.vue'
+    import Hall from '@/components/Pages/Hall.vue'
 
     export default {
         components: {
-            Home
+            Hall
         }
     }
 </script>

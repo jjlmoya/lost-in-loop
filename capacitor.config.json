@@ -1,0 +1,6 @@
+{
+  "appId": "com.lostinloop.app",
+  "appName": "lost-in-loop",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

@@ -1,14 +1,14 @@
 <template>
-    <Home />
+    <Selection />
 </template>
 
 <script>
 
-    import Home from '@/components/Pages/Home.vue'
+    import Selection from '@/components/Pages/Selection.vue'
 
     export default {
         components: {
-            Home
+            Selection
         }
     }
 </script>
